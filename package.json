@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [ember-localstorage-adapter (v1.0.0)](https://github.com/locks/ember-localstorage-adapter) [![npm package](https://img.shields.io/npm/v/npmdoc-ember-localstorage-adapter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-localstorage-adapter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-localstorage-adapter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-localstorage-adapter)",
+    "description": "#### basic api documentation for  [ember-localstorage-adapter (v1.0.0)](https://github.com/locks/ember-localstorage-adapter)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-localstorage-adapter.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-localstorage-adapter) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-localstorage-adapter.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-localstorage-adapter)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "ember-localstorage-adapter": "*",
